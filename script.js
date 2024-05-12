@@ -132,7 +132,7 @@ window.onload = function() {
     // Initialize the game
     function init() {
         // Load images
-        images = loadImages(['C:\Users\GANESH\Desktop\bubble-sprites.png']);
+        images = loadImages(["bubble-sprites.png"]);
         bubbleimage = images[0];
     
         // Add mouse events
